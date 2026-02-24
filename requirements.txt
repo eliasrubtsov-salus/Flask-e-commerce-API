@@ -5,7 +5,8 @@ flask-cors==6.0.0
 psycopg2-binary==2.9.10
 bcrypt==4.2.1
 PyJWT==2.10.1
-marshmallow==3.23.2
+marshmallow==4.1.2
 gunicorn==23.0.0
 python-dotenv==1.0.1
 pinecone
+openai
