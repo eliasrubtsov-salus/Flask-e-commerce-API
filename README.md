@@ -18,3 +18,5 @@ A simple Flask-based REST API for an e-commerce platform.
 pip install -r requirements.txt
 flask run
 ```
+
+(c) 2026
