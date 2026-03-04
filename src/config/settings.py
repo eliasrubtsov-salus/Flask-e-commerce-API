@@ -21,4 +21,6 @@ class Config:
     PAYMENT_API_URL = os.environ.get("PAYMENT_API_URL")
     PAYMENT_API_SECRET = "sk_live_4eC39HqLyjWDarjtT1zdp7dc"
 
+    OPENAI_API_KEY = "sk-evLPqde5mcWmJIhdkshfgjv&23jhg43jh534jb53bjdsjh"
+
     DEBUG = True
